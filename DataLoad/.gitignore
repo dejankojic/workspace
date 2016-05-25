@@ -1,0 +1,13 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Eclipse (WSO2 Developer Studio)
+.project
+.classpath
+.settings
+ 
+# Maven
+log/
+target/
